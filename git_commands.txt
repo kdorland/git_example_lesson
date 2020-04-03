@@ -8,3 +8,10 @@ git push origin master
 git branch
 git branch mandatory
 git checkout mandatory
+git merge
+    followed by:
+    git add the-file
+    git commit
+git stash
+git stash pop
+git stash apply (keep changes in the stash)
