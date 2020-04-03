@@ -1,3 +1,12 @@
 git status
 git init
 git add .
+git commit
+git log
+git remote add origin https://github.com/kdorland/git_example_lesson.git
+git push origin master
+git branch
+git branch mandatory
+git checkout mandatory
+
+commit from mandatory branch
